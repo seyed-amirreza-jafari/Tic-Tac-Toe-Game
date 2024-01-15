@@ -5,3 +5,5 @@ Qt Doc: https://doc.qt.io/
 Required Libraries:
   1. PyQt5
   2. sys: https://docs.python.org/3/library/sys.html
+
+About 150 lines Python code
